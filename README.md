@@ -7,7 +7,7 @@ exploring visual basic for applications
   Steve loves to analyze an entire dataset at the click of buttun. he asked me to analyze a group of 12 green stocks to support his parents investment decisions.so i designed an interactive, user friedly, workbook using VBA within Excel to provide each stocks annual volume and RIO.
  
  # Purpose
-  He wants to analyze a higher number of stocks and this may increase the amount of time it takes the analysis to produce results, so  improving the workbooks efficency by refactoring the VBA coding is so important.
+  we want to analyze a higher number of stocks and this may increase the amount of time it takes the analysis to produce results, so  improving the workbooks efficency by refactoring the VBA coding is so important.
  
 
 # Results: 
@@ -39,7 +39,7 @@ exploring visual basic for applications
    # Advantage:
    - The code is short so it uses less memory ,
    - better quality and helps run faster than the origional one.
-   - improved code readaability and reduced comlexity.
+   - improved code readability and reduced comlexity.
   # Disadvantage: 
   - if we miss some code it will messedup all the code so we might have to retest lots of functionality.
   - it is time cosuming to compelete the process
